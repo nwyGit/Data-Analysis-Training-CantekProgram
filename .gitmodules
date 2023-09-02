@@ -1,0 +1,9 @@
+[submodule "Python-DVD-Rental-Analysis"]
+	path = Python-DVD-Rental-Analysis
+	url = https://github.com/nwyGit/Python-DVD-Rental-Analysis
+[submodule "DVD-database-project"]
+	path = DVD-database-project
+	url = https://github.com/nwyGit/DVD-database-project
+[submodule "Python-Toronto-Housing-Analysis"]
+	path = Python-Toronto-Housing-Analysis
+	url = https://github.com/nwyGit/Python-Toronto-Housing-Analysis
